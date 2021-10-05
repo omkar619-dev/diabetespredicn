@@ -9,6 +9,7 @@ Streamlit Library used for the python language
 Hosting the web application via the streamlit run "path" command
 
 ![image](https://user-images.githubusercontent.com/77493308/135956979-2e40287f-3336-4a75-89eb-a9c7646ec64f.png)
+
 As the glucose levels are way too high,it is clearly saying "You are Not Healthy duh!" get yourself checked buddy.
 we can play around with the parameters given on the left hand side of your screen!
 
